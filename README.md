@@ -2,13 +2,13 @@
 
 #### Requirements
 Create a room in VR based on the Inctober List from 2019 (you can use one or more words from this list).
-+	In dem Raum bewegen können
-+	etwas greifen können
-+	ein Rätsel lösen
-+	einen Sound im Game besitzen
-+	animierter Globus (soll sich drehen) – kann irgendein rundes Objekt sein ähnlich wie ein Globus: drehbar und gekippt
++	Move inside the Room
++	Grab and Move Objects
++	Solve a Mystery
++	Have sounds inside the Game
++	animated Globe (should spin) – I can also be any round object as long as it can spin and rotate
 
-#### Daten:
+#### Data:
 + Development Platforms: Windows 8.1 / Unity Version 2019.1.14f1 / Visual Studio Code
 + Target Platform: Android Version 9
 + Reference Resolution:
