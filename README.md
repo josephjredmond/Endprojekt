@@ -10,7 +10,7 @@ Einen VR Raum basierend auf Inktoberliste 2019 (kann mehrere Begriffe beinhalten
 
 #### Daten:
 + Development Platforms: Windows 8.1 / Unity Version 2019.1.14f1 / Visual Studio Code
-+ Target Platform:
++ Target Platform: Android Version 9
 + Reference Resolution:
 + Third Party Material: none
 + Copyright sresl
