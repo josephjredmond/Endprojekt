@@ -15,9 +15,10 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 + Third Party Material: none
 + Copyright sresl
 
-#### Progress (06.11.2019):
+#### Progress:
+###### 06.11.2019
 + Installing Android SDK and importing it into Unity
-+ enabled developer options on Android Phone and enabled 'USB debugging'
++ added developer options on Android Phone and enabled 'USB debugging'
 + Updating README and adding more Details
 + Adding and updating Kanban Board
 + informing myself about the use of a Cardboard in relation to VR
