@@ -23,6 +23,12 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 + Adding and updating Kanban Board
 + informing myself about the use of a Cardboard in relation to VR
 
+###### 08.11.2019
++ Demo Scene worked on Android
++ My Scene worked on Android
++ Moved Project into another File -> Scene doesn't work on Android anymore (Screen not in VR)
++ learned about branches
+
 #### Used Websites/Tutorials:
 + https://developers.google.com/vr/develop/unity/get-started-android
 + https://docs.unity3d.com/Manual/android-sdksetup.html
