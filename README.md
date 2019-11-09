@@ -26,7 +26,7 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 ###### 08.11.2019
 + Demo Scene worked on Android
 + My Scene worked on Android
-+ Moved Project into another File -> Scene doesn't work on Android anymore (Screen not in VR)
++ Moved Project into another File -> Scene is now in monoscopic View
 + learned about branches
 
 ###### 09.11.2019
