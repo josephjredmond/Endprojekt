@@ -29,6 +29,10 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 + Moved Project into another File -> Scene doesn't work on Android anymore (Screen not in VR)
 + learned about branches
 
+###### 09.11.2019
++ fixed the Problem with the adb Server
++ fixed Monoscopic view
+
 #### Used Websites/Tutorials:
 + https://developers.google.com/vr/develop/unity/get-started-android
 + https://docs.unity3d.com/Manual/android-sdksetup.html
