@@ -44,6 +44,7 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 
 ###### 21.11.2019
 + now able to grab both Filmreels and release them again
++ merged Modelling branch with master branch
 ---
 #### Used Websites/Tutorials:
 + https://developers.google.com/vr/develop/unity/get-started-android
