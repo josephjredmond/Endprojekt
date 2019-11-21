@@ -11,10 +11,9 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 #### Data:
 + Development Platforms: Windows 8.1 / Unity Version 2019.1.14f1 / Visual Studio Code
 + Target Platform: Android Version 9
-+ Reference Resolution:
 + Third Party Material: Asset Store 3D Models
 + Copyright sresl
-
+---
 #### Progress:
 ###### 06.11.2019
 + Installing Android SDK and importing it into Unity
@@ -45,7 +44,7 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 
 ###### 21.11.2019
 + now able to grab both Filmreels and release them again
-
+---
 #### Used Websites/Tutorials:
 + https://developers.google.com/vr/develop/unity/get-started-android
 + https://docs.unity3d.com/Manual/android-sdksetup.html
