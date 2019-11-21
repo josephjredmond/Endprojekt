@@ -39,8 +39,16 @@ Create a room in VR based on the Inctober List from 2019 (you can use one or mor
 + tried to make a Waypoint by using the scripts from the GoogleVR Demo Scenes but it didn't work
 + tried to make an Object dissapear when clicked on by using the scripts from the GoogleVR Demo Scenes but it didn't work
 
+###### 20.11.2019
++ changes the color when hovering over 2 specific obejcts (Filmreel)
++ animated these 2 Objects so that they rotate in different directions
+
+###### 21.11.2019
++ now able to grab both Filmreels and release them again
+
 #### Used Websites/Tutorials:
 + https://developers.google.com/vr/develop/unity/get-started-android
 + https://docs.unity3d.com/Manual/android-sdksetup.html
 + https://github.com/googlevr/gvr-unity-sdk
 + https://de.slideshare.net/marknb00/building-vr-applications-for-google-cardboard
++ https://www.youtube.com/watch?v=wWSYT-Yrr9E
